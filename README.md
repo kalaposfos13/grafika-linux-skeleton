@@ -1,4 +1,5 @@
 # grafika-linux-skeleton
+Egy szkeleton projekt a BME VIK mérnökinformatikus hallgatóinak Grafika házik elkészítéséhez Linuxon
 
 Packages needed to build:
 ```
